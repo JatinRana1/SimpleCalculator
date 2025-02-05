@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lekton:ital,wght@0,400;0,700;1,400&family=Orbitron:wght@400..900&display=swap');
+.app{
+    font-family: "Lekton", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.app .container{
+    max-width: 250px !important;
+    background: #1d3849;
+}
+
+.bg-console{
+    background: #008000 !important;
+}
