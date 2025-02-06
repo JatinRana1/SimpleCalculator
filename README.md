@@ -12,5 +12,5 @@ npm i
 npm run dev
 ```
 
-Do let me know if there are any bugs 
+Do let me know if there are any bugs.
 contact me on ```jatinrana120@gmail.com```
