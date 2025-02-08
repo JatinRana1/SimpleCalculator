@@ -2,7 +2,7 @@
 ## HOW TO START PROJECT
 ### STEP 1: Clone repo 
 ```
-git clone git@github.com:JatinRana1/SimpleCalculator.git
+git clone https://github.com/JatinRana1/SimpleCalculator.git
 cd SimpleCalculator
 ```
 
